@@ -8,7 +8,7 @@
     android:paddingTop="@dimen/widget_margin_vertical" >
 
     <LinearLayout
-        android:id="@+id/bitcoinParent"
+        android:id="@+id/reddcoinParent"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_centerInParent="true"

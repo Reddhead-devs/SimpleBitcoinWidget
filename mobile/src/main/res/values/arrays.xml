@@ -22,310 +22,57 @@
         <item>360</item>
         <item>1440</item>
     </string-array>
-    <string-array name="currencies_mtgox">
+    <string-array name="currencies_AllCoin">
+    <item>BTC</item>
+    </string-array>
+    <string-array name="currencies_AllCrypt">
+        <item>BTC</item>
+    </string-array>
+    <string-array name="currencies_Bittrex">
+        <item>BTC</item>
+    </string-array>
+
+    <string-array name="currencies_Bleutrade">
+        <item>BTC</item>
         <item>USD</item>
+        <item>DOGE</item>
+        <item>LTC</item>
+        <item>HTML5</item>
     </string-array>
-    <string-array name="currencies_coinbase">
+    <string-array name="currencies_CoinSwap">
+        <item>BTC</item>
+    </string-array>
+    <string-array name="currencies_Cryptsy">
+        <item>BTC</item>
         <item>USD</item>
-        <item>AUD</item>
-        <item>BRL</item>
-        <item>CAD</item>
-        <item>CHF</item>
-        <item>CNY</item>
-        <item>CZK</item>
-        <item>DKK</item>
-        <item>EUR</item>
-        <item>GBP</item>
-        <item>HKD</item>
-        <item>ILS</item>
-        <item>JPY</item>
-        <item>MXN</item>
-        <item>NOK</item>
-        <item>NZD</item>
-        <item>PLN</item>
-        <item>RUB</item>
-        <item>SEK</item>
-        <item>SGD</item>
-        <item>THB</item>
-        <item>ZAR</item>
+        <item>XRP</item>
+        <item>LTC</item>
     </string-array>
-    <string-array name="currencies_bitstamp">
-        <item>USD</item>
+    <string-array name="currencies_Poloniex">
+        <item>BTC</item>
     </string-array>
-    <string-array name="currencies_bitfinex">
-        <item>USD</item>
-    </string-array>
-    <string-array name="currencies_campbx">
-        <item>USD</item>
-    </string-array>
-    <string-array name="currencies_btce">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>RUR</item>
-    </string-array>
-    <string-array name="currencies_mercado">
-        <item>BRL</item>
-    </string-array>
-    <string-array name="currencies_bitcoinde">
-        <item>EUR</item>
-    </string-array>
-    <string-array name="currencies_bitcurex">
-        <item>EUR</item>
-        <item>PLN</item>
-    </string-array>
-    <string-array name="currencies_bitcoinaverage">
-        <item>USD</item>
-        <item>AUD</item>
-        <item>BRL</item>
-        <item>CAD</item>
-        <item>CHF</item>
-        <item>CNY</item>
-        <item>EUR</item>
-        <item>GBP</item>
-        <item>HKD</item>
-        <item>ILS</item>
-        <item>JPY</item>
-        <item>MXN</item>
-        <item>NOK</item>
-        <item>NZD</item>
-        <item>PLN</item>
-        <item>RON</item>
-        <item>RUB</item>
-        <item>SEK</item>
-        <item>SGD</item>
-        <item>TRY</item>
-        <item>ZAR</item>
-    </string-array>
-    <string-array name="currencies_bitcoinaverage_global">
-        <item>USD</item>
-        <item>AUD</item>
-        <item>BRL</item>
-        <item>CAD</item>
-        <item>CHF</item>
-        <item>CNY</item>
-        <item>EUR</item>
-        <item>GBP</item>
-        <item>HKD</item>
-        <item>ILS</item>
-        <item>JPY</item>
-        <item>MXN</item>
-        <item>NOK</item>
-        <item>NZD</item>
-        <item>PLN</item>
-        <item>RON</item>
-        <item>RUB</item>
-        <item>SEK</item>
-        <item>SGD</item>
-        <item>TRY</item>
-        <item>ZAR</item>
-    </string-array>
-    <string-array name="currencies_btcchina">
-        <item>CNY</item>
-    </string-array>
-    <string-array name="currencies_bit2c">
-        <item>ILS</item>
-    </string-array>
-    <string-array name="currencies_bitpay">
-        <item>USD</item>
-        <item>AUD</item>
-        <item>BRL</item>
-        <item>CAD</item>
-        <item>CHF</item>
-        <item>CNY</item>
-        <item>CZK</item>
-        <item>DKK</item>
-        <item>EUR</item>
-        <item>GBP</item>
-        <item>HKD</item>
-        <item>ILS</item>
-        <item>JPY</item>
-        <item>MXN</item>
-        <item>NOK</item>
-        <item>NZD</item>
-        <item>PLN</item>
-        <item>RON</item>
-        <item>RUB</item>
-        <item>SEK</item>
-        <item>SGD</item>
-        <item>THB</item>
-        <item>TRY</item>
-        <item>ZAR</item>
-    </string-array>
-    <string-array name="currencies_kraken">
-        <item>USD</item>
-        <item>EUR</item>
-    </string-array>
-    <string-array name="currencies_btcturk">
-        <item>TRY</item>
-    </string-array>
-    <string-array name="currencies_virtex">
-        <item>CAD</item>
-    </string-array>
-    <string-array name="currencies_justcoin">
-        <item>USD</item>
-        <item>AUD</item>
-        <item>CAD</item>
-        <item>CHF</item>
-        <item>EUR</item>
-        <item>GBP</item>
-        <item>HKD</item>
-        <item>JPY</item>
-        <item>NZD</item>
-        <item>SGD</item>
-    </string-array>
-    <string-array name="currencies_kuna">
-        <item>UAH</item>
-    </string-array>
-    <string-array name="currencies_lake">
-        <item>USD</item>
-        <item>CNY</item>
-    </string-array>
-    <string-array name="currencies_cryptonit">
-        <item>USD</item>
-    </string-array>
-    <string-array name="currencies_cointree">
-        <item>AUD</item>
-    </string-array>
-    <string-array name="currencies_btcmarkets">
-        <item>AUD</item>
-    </string-array>
-    <string-array name="currencies_huobi">
-        <item>CNY</item>
-    </string-array>
-    <string-array name="currencies_korbit">
-        <item>KRW</item>
-    </string-array>
-    <string-array name="currencies_paymium">
-        <item>EUR</item>
-    </string-array>
-    <string-array name="currencies_bitso">
-        <item>MXN</item>
-    </string-array>
-    <string-array name="currencies_zyado">
-        <item>EUR</item>
-    </string-array>
-    <string-array name="currencies_cryptsy">
-        <item>USD</item>
-    </string-array>
-    <string-array name="currencies_bitbay">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>PLN</item>
-    </string-array>
-    <string-array name="currencies_cexio">
-        <item>USD</item>
-    </string-array>
-    <string-array name="currencies_btcxchange">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>RON</item>
-    </string-array>
-    <string-array name="currencies_okcoin">
-        <item>USD</item>
-        <item>CNY</item>
-    </string-array>
-    <string-array name="currencies_hitbtc">
-        <item>USD</item>
-        <item>EUR</item>
-    </string-array>
-    <string-array name="currencies_itbit">
-        <item>USD</item>
-        <item>EUR</item>
-        <item>SGD</item>
-    </string-array>
-    <string-array name="currencies_bitcoincoid">
-        <item>IDR</item>
-    </string-array>
-    <string-array name="currencies_foxbit">
-        <item>BRL</item>
-    </string-array>
-    <string-array name="currencies_independentreserve">
-        <item>USD</item>
-        <item>AUD</item>
-    </string-array>
+
     <string-array name="providerValues">
-        <item>12</item>
-        <item>29</item>
-        <item>3</item>
-        <item>10</item>
-        <item>35</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>13</item>
-        <item>26</item>
-
-        <item>2</item>
-        <item>11</item>
-        <item>5</item>
-        <item>22</item>
-        <item>15</item>
-        <item>31</item>
-        <item>4</item>
-        <item>30</item>
+        <item>0</item>
         <item>1</item>
-        <item>21</item>
-
-        <item>20</item>
-        <item>28</item>
-        <item>36</item>
-        <item>33</item>
-        <item>23</item>
-        <item>37</item>
-        <item>34</item>
-        <item>17</item>
-        <item>24</item>
-        <item>14</item>
-
-        <item>18</item>
-        <item>19</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
         <item>6</item>
-        <item>32</item>
-        <item>25</item>
-        <item>16</item>
-        <item>27</item>
+        <item>7</item>
+
     </string-array>
     <string-array name="providers">
-        <item>Bit2C</item>
-        <item>BitBay</item>
-        <item>Bitcoin Average</item>
-        <item>Bitcoin Average (global)</item>
-        <item>Bitcoin.co.id</item>
-        <item>Bitcoin.de</item>
-        <item>Bitcurex</item>
-        <item>Bitfinex</item>
-        <item>BitPay</item>
-        <item>Bitso</item>
-
-        <item>Bitstamp</item>
-        <item>BTC China</item>
-        <item>BTC-e</item>
-        <item>BTC Markets</item>
-        <item>BTCTurk</item>
-        <item>BTCXchange</item>
-        <item>Camp BX</item>
-        <item>Cex.io</item>
-        <item>Coinbase</item>
-        <item>Cointree</item>
-
-        <item>Cryptonit</item>
+        <item>AllCoin</item>
+        <item>AllCrypt</item>
+        <item>Bittrex</item>
+        <item>Bleutrade</item>
+        <item>Coin-Swap</item>
         <item>Cryptsy</item>
-        <item>FoxBit</item>
-        <item>HitBTC</item>
-        <item>Huobi</item>
-        <item>Independent Reserve</item>
-        <item>ItBit</item>
-        <item>Justcoin</item>
-        <item>Korbit</item>
-        <item>Kraken</item>
+        <item>Poloniex</item>
+        <!-- <item>Shapeshift.io</item>-->
 
-        <item>KunaBTC</item>
-        <item>LakeBTC</item>
-        <item>Mercado Bitcoin</item>
-        <item>OK Coin</item>
-        <item>Paymium</item>
-        <item>Virtex</item>
-        <item>Zyado</item>
     </string-array>
     <string-array name="themes">
         <item>Light</item>

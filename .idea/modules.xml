@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SimpleBitcoinWidget.iml" filepath="$PROJECT_DIR$/SimpleBitcoinWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleBitcoinWidget-3.2.iml" filepath="$PROJECT_DIR$/SimpleBitcoinWidget-3.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/mobile/mobile.iml" filepath="$PROJECT_DIR$/mobile/mobile.iml" />
     </modules>
   </component>
