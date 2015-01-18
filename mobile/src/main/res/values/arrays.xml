@@ -34,22 +34,36 @@
 
     <string-array name="currencies_Bleutrade">
         <item>BTC</item>
-        <item>USD</item>
         <item>DOGE</item>
-        <item>LTC</item>
         <item>HTML5</item>
+        <item>LTC</item>
+        <item>USD</item>
     </string-array>
     <string-array name="currencies_CoinSwap">
         <item>BTC</item>
     </string-array>
     <string-array name="currencies_Cryptsy">
         <item>BTC</item>
+        <item>LTC</item>
         <item>USD</item>
         <item>XRP</item>
-        <item>LTC</item>
     </string-array>
     <string-array name="currencies_Poloniex">
         <item>BTC</item>
+    </string-array>
+    <string-array name="currencies_Shapeshift">
+        <item>BLK</item>
+        <item>BTC</item>
+        <item>BTCD</item>
+        <item>DOGE</item>
+        <item>DRK</item>
+        <item>FTC</item>
+        <item>LTC</item>
+        <item>NMC</item>
+        <item>NXT</item>
+        <item>PPC</item>
+        <item>QRK</item>
+        <item>XRP</item>
     </string-array>
 
     <string-array name="providerValues">
@@ -61,6 +75,7 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>8</item>
 
     </string-array>
     <string-array name="providers">
@@ -71,7 +86,7 @@
         <item>Coin-Swap</item>
         <item>Cryptsy</item>
         <item>Poloniex</item>
-        <!-- <item>Shapeshift.io</item>-->
+        <item>Shapeshift</item>
 
     </string-array>
     <string-array name="themes">

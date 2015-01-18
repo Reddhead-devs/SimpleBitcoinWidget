@@ -94,6 +94,14 @@ public enum RDDProvider {
             JSONObject obj = getJSONObject("https://poloniex.com/public?command=returnTicker");
             return obj.getJSONObject("BTC_RDD").getString("last");
         }
+    },
+    SHAPESHIFT(R.array.currencies_Shapeshift, "ss") {
+        @Override
+        public String getValue(String currencyCode) throws Exception {
+            JSONObject obj = getJSONObject(String.format("https://shapeshift.io/rate/RDD_%s", currencyCode));
+            return obj.getString("rate");
+        }
+
     };
 
 
