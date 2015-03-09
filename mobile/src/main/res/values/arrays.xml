@@ -39,8 +39,11 @@
         <item>LTC</item>
         <item>USD</item>
     </string-array>
-    <string-array name="currencies_CoinSwap">
+    <string-array name="currencies_Comkort">
         <item>BTC</item>
+        <item>DOGE</item>
+        <item>LTC</item>
+        <item>USD</item>
     </string-array>
     <string-array name="currencies_Cryptsy">
         <item>BTC</item>
@@ -55,14 +58,25 @@
         <item>BLK</item>
         <item>BTC</item>
         <item>BTCD</item>
+        <item>BTS</item>
+        <item>CLAM</item>
+        <item>DGB</item>
         <item>DOGE</item>
         <item>DRK</item>
         <item>FTC</item>
         <item>LTC</item>
+        <item>MINT</item>
+        <item>NBT</item>
         <item>NMC</item>
+        <item>NVC</item>
         <item>NXT</item>
+        <item>POT</item>
         <item>PPC</item>
         <item>QRK</item>
+        <item>SDC</item>
+        <item>START</item>
+        <item>UNO</item>
+        <item>VRC</item>
         <item>XRP</item>
     </string-array>
 
@@ -75,7 +89,6 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
-        <item>8</item>
 
     </string-array>
     <string-array name="providers">
@@ -83,7 +96,7 @@
         <item>AllCrypt</item>
         <item>Bittrex</item>
         <item>Bleutrade</item>
-        <item>Coin-Swap</item>
+        <item>Comkort</item>
         <item>Cryptsy</item>
         <item>Poloniex</item>
         <item>Shapeshift</item>

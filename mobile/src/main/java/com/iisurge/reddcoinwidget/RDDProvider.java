@@ -56,13 +56,12 @@ public enum RDDProvider {
             return null;
         }
     },
-    COINSWAP(R.array.currencies_CoinSwap, "cswap") {
+    COMKORT(R.array.currencies_Comkort, "comk") {
         @Override
         public String getValue(String currencyCode) throws Exception {
-            JSONObject obj = getJSONObject("https://api.coin-swap.net/market/stats/RDD/BTC");
-            return obj.getString("lastprice");
+            JSONObject obj = getJSONObject(String.format("https://api.comkort.com/v1/public/market/summary?market_alias=RDD_%s", currencyCode));
+            return obj.getJSONObject("markets").getJSONObject(String.format("RDD/%s", currencyCode)).getString("last_price");
         }
-
     },
     CRYPTSY(R.array.currencies_Cryptsy, "crpsy") {
         @Override
