@@ -30,13 +30,6 @@ public enum RDDProvider {
             return obj.getJSONObject("data").getString("trade_price");
         }
     },
-    ALLCRYPT(R.array.currencies_AllCrypt, "acryp") {
-        @Override
-        public String getValue(String currencyCode) throws Exception {
-            JSONObject obj = getJSONObject("https://www.allcrypt.com/api?method=singlemarketdata&marketid=165");
-            return obj.getJSONObject("return").getJSONObject("markets").getJSONObject("RDD").getString("lasttradeprice");
-        }
-    },
     BITTREX(R.array.currencies_Bittrex, "btrx") {
         @Override
         public String getValue(String currencyCode) throws Exception {

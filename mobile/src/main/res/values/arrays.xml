@@ -25,9 +25,6 @@
     <string-array name="currencies_AllCoin">
     <item>BTC</item>
     </string-array>
-    <string-array name="currencies_AllCrypt">
-        <item>BTC</item>
-    </string-array>
     <string-array name="currencies_Bittrex">
         <item>BTC</item>
     </string-array>
@@ -88,12 +85,10 @@
         <item>4</item>
         <item>5</item>
         <item>6</item>
-        <item>7</item>
 
     </string-array>
     <string-array name="providers">
         <item>AllCoin</item>
-        <item>AllCrypt</item>
         <item>Bittrex</item>
         <item>Bleutrade</item>
         <item>Comkort</item>

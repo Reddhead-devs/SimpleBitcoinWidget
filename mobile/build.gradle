@@ -8,8 +8,8 @@ android {
         applicationId "com.iisurge.reddcoinwidget"
         minSdkVersion 9
         targetSdkVersion 21
-        versionCode 9
-        versionName "1.3"
+        versionCode 10
+        versionName "1.4"
     }
 }
 
